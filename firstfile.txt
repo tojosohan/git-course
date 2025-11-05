@@ -1,1 +1,2 @@
 This is first file feature.
+Git basics will be completed today.
